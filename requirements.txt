@@ -1,0 +1,8 @@
+tensorflow
+tqdm
+streamlit
+scikit-learn
+opencv-python
+numpy
+keras
+pickle
